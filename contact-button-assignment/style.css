@@ -5,11 +5,13 @@ Rosy Brown - #B38D97
 Tea Rose Red - #D5ACA9
 Dessert Sand - #EBCFB2
 Silver - #C5BAAF
+Dark Brown-  #380e05
 */
 
 body {
     background-color:#C5BAAF;
-    text-align: center
+    text-align: center; 
+    color:  #380e05
 }
 button {
     background-color: #D5ACA9;
