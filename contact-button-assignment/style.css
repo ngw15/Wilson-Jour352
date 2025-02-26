@@ -1,0 +1,37 @@
+/*
+MY COLOR PALETTE
+Charcoal - #424B54
+Rosy Brown - #B38D97
+Tea Rose Red - #D5ACA9
+Dessert Sand - #EBCFB2
+Silver - #C5BAAF
+*/
+
+body {
+    background-color:#C5BAAF;
+    text-align: center
+}
+button {
+    background-color: #D5ACA9;
+    color:  #380e05;
+    font-size: 20px;
+    font-family:'Mulish', serif;
+    width: 400px;
+    padding: 10px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 12px;
+}
+button:hover{
+    background-color: #B38D97
+}
+h1{
+    font-family: 'Merriweather', serif;
+    font-weight:700
+}
+h2{
+    font-family:'Mulish', sans-serif;
+    font-weight: 500
+}
+
+
