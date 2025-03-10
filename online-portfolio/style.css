@@ -6,49 +6,70 @@ Taupe Gray - #80727B
 Dark Purple- #1C0221
 Rich Black - #051014
 */
-h1 { 
-color: #1C0221;
+h1 {
+    color: #1c0221;
     font-family: "inria serif";
-     font-weight: 700;
-    font-size: xx-large;
+    font-weight: 500;
+    font-size: 100px;
     padding-top: 20px;
 }
 img {
-    width:30%;
+    width: 50%;
     padding-top: 20px;
-    display:block;
-    margin:auto;
+    display: block;
+    margin: auto;
+    align-content: left;
 }
-h2 {
-    font-family:"lato";
-    font-weight: 500;
-    font-size: large;
+h3 {
+    font-family: "lato";
+    font-weight: 300;
+    font-size: 35px;
 }
 body {
-    background-color: #F1DEDE;
+    background-color: #f1dede;
     text-align: center;
-    color: #1C0221;
+    color: #1c0221;
 }
 button {
-    background-color: #BBACC1;
+    background-color: #bbacc1;
     color: #380e05;
     font-size: 20px;
     font-family: "lato";
-    width: 250px;
-    padding: 10px;
+    padding: 30px 250px 30px 250px;
     margin-top: 10px;
     border: none;
     border-radius: 12px;
     align-content: center;
 }
 button:hover {
-    background-color: #80727B;
+    background-color: #80727b;
 }
-#words{
+#words {
     padding-right: 20px;
-    display:block;
-    margin:auto;
+    display: block;
+    margin: auto;
 }
-
-
-
+#navigation2 {
+    margin: 50px 1px 50px 1px;
+    padding: 10px 1px 10px 1px;
+    text-align: center;
+    background-color: #80727b;
+    color: #1c0221;
+}
+h2 {
+    color: #1c0221;
+    font-family: "inria serif";
+    font-weight: 500;
+    font-size: 75px;
+    padding-top: 1px;
+}
+#sections {
+    align-content: left;
+    text-align: left;
+}
+p {
+    text-align: left;
+}
+#experince-section {
+    display: block;
+}
