@@ -6,6 +6,7 @@ Taupe Gray - #80727B
 Dark Purple- #1C0221
 Rich Black - #051014
 */
+@media{
 h1 {
     color: #1c0221;
     font-family: "inria serif";
@@ -73,3 +74,5 @@ p {
 #experince-section {
     display: block;
 }
+}
+
