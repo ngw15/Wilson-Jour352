@@ -1,0 +1,64 @@
+@media screen {
+    body {
+        background-color: #b4c0be;
+        font-family: "Roboto", sans-serif;
+    }
+    #topper {
+        background-image: url(ALS%20topper.webp);
+        background-size: cover;
+        height: 100vh;
+        background-position: 15% 0%;
+    }
+    h1 {
+        font-family: "Inria Serif", serif;
+        color: white;
+        padding: 75vh 5% 0% 5%;
+    }
+    .caption {
+        text-align: center;
+        font-family: "Inria Serif", serif;
+    }
+    img {
+        width: 100%;
+    }
+    .byline {
+        text-decoration: underline;
+        text-align: center;
+        font-weight: 600;
+        font-family: "Roboto", sans-serif;
+    }
+    .date {
+        text-align: center;
+        font-weight: 600;
+        font-family: "Roboto", sans-serif;
+    }
+    .quote {
+        font-size: larger;
+        font-weight: 600;
+        font-family: "Inria Serif", serif;
+        border-left: 4px solid #333;
+        padding-left: 1em;
+        margin: 1em 0;
+    }
+    .name {
+        font-family: "Inria Serif", serif;
+        text-align: right;
+    }
+    .topimg {
+        width: 100%;
+    }
+    .col-sm-6 {
+        background-color: #999999;
+        padding: 2rem 1rem;
+        color: white;
+        font-weight: 100;
+    }
+}
+@media (min-width: 576px) {
+    h1 {
+        padding: 20% 5% 0% 60%;
+    }
+    #content {
+        width: 60%;
+    }
+}
